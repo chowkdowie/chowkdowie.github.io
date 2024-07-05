@@ -1,0 +1,11 @@
+Model Information:
+* title:	Little Chick
+* source:	https://sketchfab.com/3d-models/little-chick-7b5c08e070de4deeba8c693016c36cab
+* author:	4licia (https://sketchfab.com/4licia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Little Chick" (https://sketchfab.com/3d-models/little-chick-7b5c08e070de4deeba8c693016c36cab) by 4licia (https://sketchfab.com/4licia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
