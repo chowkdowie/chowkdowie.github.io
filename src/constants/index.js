@@ -26,6 +26,7 @@ import {
     art,
     intro,
     threejs,
+    insta,
   } from "../assets";
   
   export const navLinks = [
