@@ -32,6 +32,7 @@ import tripguide from "./tripguide.png";
 import eduworks from "./eduworks.png";
 import art from "./art.png";
 import intro from "./intro.png";
+import insta from "./insta.png";
 
 
 
@@ -67,4 +68,5 @@ export {
   eduworks,
   art,
   intro,
+  insta,
 };

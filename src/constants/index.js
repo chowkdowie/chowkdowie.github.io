@@ -138,6 +138,7 @@ import {
         "Produced and edited 2 video demos with music, posted on the company's YouTube channel and used in client presentations.",
       ],
     },
+    
     {
       title: "Web Development Team Member",
       company_name: "Electrium Mobility",
@@ -224,6 +225,20 @@ import {
       ],
       image: carrent,
       source_code_link: "https://www.youtube.com/playlist?list=PL_g6564OxUS7ajVzum-guWB3ixOibSfxA",
+    },
+    {
+      name: "Instagram Redesign Case Study",
+      description:
+        "I redesigned Instagram focusing on common user pain points regarding Instagram's current explore page and content posting process. I went through user research, personas, wireframing, prototyping, and user testing.",
+      tags: [
+        {
+          name: "figma",
+          color: "yellow-text-gradient",
+        },
+        
+      ],
+      image: insta,
+      source_code_link: "https://www.figma.com/design/P8DX9hiQnBcTMWM1xbwIdN/Instagram-App-Redesign?node-id=0-1&t=WAqkfdK0thR8cUAG-1",
     },
     {
       name: "Electrium Mobility Store Page Design",
