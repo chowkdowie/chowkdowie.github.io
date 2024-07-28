@@ -244,7 +244,7 @@ import {
     {
       name: "Electrium Mobility Store Page Design",
       description:
-        "I researched and prototyped an online store feautre for front-end developers using Figma. The design covers a Store page, Products page, Cart page, and Checkout page, including interactive elements and user flow.",
+        "I researched and prototyped online store features for front-end developers using Figma. The design covers a Store page, Products page, Cart page, and Checkout page, including interactive elements and user flow.",
       tags: [
         {
           name: "figma",
